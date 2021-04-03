@@ -1,0 +1,21 @@
+{
+  "name": "passport-check",
+  "version": "1.0.0",
+  "description": "trying to learn oauth",
+  "main": "app.js",
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.10",
+    "nodejs": "^0.0.0",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "abhishek rangana",
+  "license": "ISC"
+}
